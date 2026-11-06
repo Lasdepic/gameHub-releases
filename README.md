@@ -53,7 +53,7 @@ L'installateur n'est pas signé : Windows SmartScreen peut afficher un avertisse
 
 ## Prérequis
 
-Windows 10 ou 11. L'installation de launchers et d'outils depuis Sidekick utilise [winget](https://learn.microsoft.com/windows/package-manager/winget/) (« App Installer »).
+Windows 10 ou 11. L'installation de launchers et d'émulateurs depuis Sidekick utilise [winget](https://learn.microsoft.com/windows/package-manager/winget/) (« App Installer »).
 
 ## À propos de ce dépôt
 
